@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Business Name
 
 You can use the [editor on GitHub](https://github.com/hilli2/bus100/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
